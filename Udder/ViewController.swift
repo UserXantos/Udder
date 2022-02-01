@@ -15,8 +15,8 @@ class ViewController: UIViewController {
     }
     override func viewWillAppear(_ animated: Bool) {
         //
-        fkfdk fdfmsdf
     }
+    fkfdk fdfmsdf
 
 }
 
